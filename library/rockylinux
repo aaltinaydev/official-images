@@ -1,5 +1,5 @@
 Maintainers: The Rocky Linux Foundation <infrastructure@rockylinux.org> (@rocky-linux),
-             Neil Hanlon <neil@resf.org> (@neilhanlon)
+             Neil Hanlon <neil@resf.org> (@neilhanlon) 
 GitRepo: https://github.com/rocky-linux/sig-cloud-instance-images.git
 
 Tags: 9.2.20230513, 9.2, 9
